@@ -182,4 +182,3 @@ Agent: Before we start implement this, could you describe what the function shou
 ```
 
 This approach ensures students actively engage with Python’s syntax and idioms, building on their Java/C experience and problem-solving skills.
-
